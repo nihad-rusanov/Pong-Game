@@ -1,0 +1,13 @@
+#game{
+    text-align: center;
+}
+
+#gameBoard{
+    border:1px solid green;
+    background-color: green;
+    border-radius: 5px;
+}
+#score{
+    font-size: 40px;
+    font-style: italic;
+}
